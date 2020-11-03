@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "761695815737",
+    "firebase_url": "https://vinelore-3e5f1.firebaseio.com",
+    "project_id": "vinelore-3e5f1",
+    "storage_bucket": "vinelore-3e5f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761695815737:android:5a166b26515bc21faaa5e8",
+        "android_client_info": {
+          "package_name": "com.vine_lore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761695815737-k9345gmrvhrne7glu9pis12vtm7d10fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQTrmp46QAeaMGBXGjnmUNYpu51FwfIVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761695815737-k9345gmrvhrne7glu9pis12vtm7d10fj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
